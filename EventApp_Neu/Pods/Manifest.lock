@@ -1,0 +1,18 @@
+PODS:
+  - DACircularProgress (2.3.1)
+  - DZNEmptyDataSet (1.8.1)
+  - LGRefreshView (1.0.5):
+    - DACircularProgress (~> 2.3.0)
+
+DEPENDENCIES:
+  - DZNEmptyDataSet
+  - LGRefreshView (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  LGRefreshView: 34746afadbd23de8d1449cab15f3d89269645d43
+
+PODFILE CHECKSUM: 955e56b33e288c14af479cc07d91c9b63f5e8180
+
+COCOAPODS: 1.0.1
